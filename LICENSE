@@ -1,19 +1,22 @@
-1. Grant of License
-This software and its source code ("Software") are the exclusive property of Skryptio ("Licensor"). You are not permitted to use, copy, modify, distribute, or sublicense this Software unless explicitly granted a license by the Licensor.
+Grant of License
+Skryptio ("Licensor") retains all rights, title, and interest in and to the Software and its source code ("Software"). Subject to the terms of this Agreement, you are granted a limited, non-exclusive license to modify the Software and distribute your modifications only if you provide proper credit to Skryptio. Republishing the original, unmodified Software in any form is strictly prohibited.
 
-2. Permitted Use
-Only Skryptio has unrestricted access to this Software.
-Any other individual or entity must purchase a license directly from the Licensor to use the Software.
-3. Restrictions
-You may not copy, modify, distribute, or sublicense the Software without written permission from the Licensor.
-You may not use the Software for commercial purposes unless a commercial license has been purchased.
-Reverse engineering, decompiling, or otherwise attempting to derive the source code is strictly prohibited unless permitted by law.
-4. License Acquisition
-Licenses for this Software are granted on a case-by-case basis.
-To obtain a license, an individual or entity must contact the Licensor directly and agree to the terms of use.
-5. Enforcement & Termination
-Unauthorized use of the Software constitutes a violation of copyright law.
-If you violate any terms of this agreement, your license (if granted) will be immediately revoked, and you must cease using the Software.
-Licensor reserves the right to take legal action against unauthorized use.
-6. Disclaimer of Warranty
-This Software is provided "AS IS" without any warranty of any kind. The Licensor is not responsible for any damages arising from its use.
+Permitted Use
+
+You may modify the Software and share your modifications with others.
+Any distributed modifications must include clear acknowledgment that the work is derived from Skryptio’s original Software, along with proper credit to Skryptio as the original creator.
+Republishing or redistributing the original, unaltered Software, in whole or in part, is not allowed.
+Restrictions
+
+No Republishing: You are not permitted to republish the original Software, either in its entirety or in substantially unmodified form.
+Attribution Requirement: All distributed modifications or derivative works must include a prominent notice crediting Skryptio as the original author.
+Commercial Use: Use of the Software for commercial purposes is not allowed unless a separate commercial license is obtained from Skryptio.
+Licenses for any use of the Software—including for commercial purposes—are granted on a case-by-case basis. To obtain a license or clarify permitted uses, you must contact Skryptio directly and comply with the agreed-upon terms.
+
+Enforcement & Termination
+Unauthorized use or distribution of the Software constitutes a violation of this Agreement and applicable copyright law.
+
+If you fail to comply with these terms, your license will be immediately terminated, and you must cease all use and distribution of the Software.
+Skryptio reserves the right to pursue all available legal remedies in the event of a breach.
+Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. SKRYPTIO SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
